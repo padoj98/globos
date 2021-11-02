@@ -1,6 +1,6 @@
 let globos = []; // variables en js. Arrays en js.  
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(800, 600);
 }
 
 function draw() {
